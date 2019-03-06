@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ben Weintraub"
-  avatar           : "profile.png"
+  avatar           : profile.png
   bio              : "Graduate Student at Northeastern University"
   location         : "Boston, MA"
   employer         :
