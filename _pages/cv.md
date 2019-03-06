@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, minors in Mathematics and Computer Science, University of Iowa, 2013
+* M.S. in Computer Science, focus in Cybersecrity, Northeastern University, 2020 (expected)
 
 Work experience
 ======
@@ -42,16 +41,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Patents
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.patents %}
+    {% include archive-single-patent-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
