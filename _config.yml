@@ -13,7 +13,7 @@ name                     : &name "Ben Weintraub"
 description              : &description "Graduate Student at Northeastern University"
 url                      : https://iowaguy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "iowaguy.github.io"
+repository               : "iowaguy/iowaguy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -188,6 +188,9 @@ collections:
   notes:
     output: true
     permalink: /:collection/:path/
+  patents:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -254,6 +257,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _patents
+  - scope:
+      path: ""
+      type: patents
+    values:
+      layout: single
       author_profile: true
       share: true
 
