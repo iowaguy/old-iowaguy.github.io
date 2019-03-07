@@ -11,7 +11,7 @@ title                    : "Ben Weintraub"
 title_separator          : "-"
 name                     : &name "Ben Weintraub"
 description              : &description "Graduate Student at Northeastern University"
-url                      : https://iowaguy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ben-weintraub.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iowaguy/iowaguy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ben Weintraub"
   avatar           : profile.png
-  bio              : "Graduate Student at Northeastern University"
+  bio              : "Graduate Student in Computer Science at Northeastern University; Researcher in the <a style='color: black;' href='https://cyber.khoury.northeastern.edu'>Cybersecurity and Privacy Institute</a>"
   location         : "Boston, MA"
   employer         :
   pubmed           :
@@ -96,9 +96,9 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "iowaguy"
+  github           : "https://github.com/iowaguy"
   google_plus      :
-  keybase          : "benweintraub"
+  keybase          : "https://keybase.io/benweintraub"
   instagram        :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/benweintraub34"
