@@ -20,7 +20,7 @@ I have BS in Electrical Engineering from the [University of Iowa](https://uiowa.
 My current research project is focused on security and privacy of _payment channel networks_, which are related to--but not the same as--blockchains. More generally, I'm interested in the security of distributed systems and computer networks.
 
 ## Contact
-* [lastname] dot [first initial] at husky.neu.edu
+* [lastname] dot [first initial] at northeastern.edu
 * [LinkedIn]({{ site.author.linkedin }})
 * [GitHub]({{ site.author.github }})
 * [Google Scholar]({{ site.author.googlescholar }})
