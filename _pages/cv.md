@@ -14,16 +14,20 @@ Available in PDF format [here](/files/BenWeintraubCV.pdf)
 <h1 align="center">Ben Weintraub</h1><br>
 
 # Education
-* B.S. in Electrical Engineering, minors in Mathematics and Computer Science, University of Iowa, Spring 2013
-* M.S. in Computer Science, focus in Cybersecrity, Northeastern University, Spring 2020 (expected)
+* Ph.D. in Computer Science, focus in Cybersecrity, Northeastern University, Spring 2023 (expected)
   * __Advisor__: [Professor Cristina Nita-Rotaru](http://cnitarot.github.io/)
+* B.S. in Electrical Engineering, minors in Mathematics and Computer Science, University of Iowa, Spring 2013
 
 # Research Interests
 * __Topics__: security, privacy, distributed systems, networks
-* __Specifics__: blockchains, payment channel networks, privacy-preserving routing
+* __Specifics__: payment channel networks, software-defined networks, privacy-preserving routing, blockchains
+
 
 Work experience
 ======
+* __Research Assistant__, Northeastern University, Cybersecurity and Privacy Institute, May 2019-present
+  * Investigating security and privacy implications of routing protocols in both cryptocurrency networks and software-defined networks (SDNs)
+
 * __Software Engineer__, BlueTalon, 2015-2018
   * Designed and prototyped a security policy enforcement plugin for Elasticsearch queries and filed a patent for the work
   * Created a suite of scripts for automated performance testing of Hadoop MapReduce jobs
